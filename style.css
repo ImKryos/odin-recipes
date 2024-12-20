@@ -1,0 +1,14 @@
+body {
+    font-family: Verdana, Helvetica, sans-serif;
+    background-color: darkslategrey;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+}
+
+.item {
+    color: lightblue;
+    font-weight: bold;
+}
